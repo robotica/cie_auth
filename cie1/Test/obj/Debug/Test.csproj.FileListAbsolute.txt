@@ -1,0 +1,11 @@
+\\Mac\Home\Desktop\cie-mrtd-sdk-master\Test\bin\Debug\Test.exe
+\\Mac\Home\Desktop\cie-mrtd-sdk-master\Test\bin\Debug\Test.pdb
+\\Mac\Home\Desktop\cie-mrtd-sdk-master\Test\bin\Debug\CIE.MRTD.SDK.dll
+\\Mac\Home\Desktop\cie-mrtd-sdk-master\Test\bin\Debug\CIE.MRTD.SDK.pdb
+\\Mac\Home\Desktop\cie-mrtd-sdk-master\Test\bin\Debug\CIE.MRTD.SDK.xml
+\\Mac\Home\Desktop\cie-mrtd-sdk-master\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\cie-mrtd-sdk-master\Test\obj\Debug\Test.Form1.resources
+\\Mac\Home\Desktop\cie-mrtd-sdk-master\Test\obj\Debug\Test.Properties.Resources.resources
+\\Mac\Home\Desktop\cie-mrtd-sdk-master\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\cie-mrtd-sdk-master\Test\obj\Debug\Test.exe
+\\Mac\Home\Desktop\cie-mrtd-sdk-master\Test\obj\Debug\Test.pdb

@@ -1,0 +1,5 @@
+\\Mac\Home\Desktop\cie-mrtd-sdk-master\CIE.MRTD.SDK\bin\Debug\CIE.MRTD.SDK.XML
+\\Mac\Home\Desktop\cie-mrtd-sdk-master\CIE.MRTD.SDK\bin\Debug\CIE.MRTD.SDK.dll
+\\Mac\Home\Desktop\cie-mrtd-sdk-master\CIE.MRTD.SDK\bin\Debug\CIE.MRTD.SDK.pdb
+\\Mac\Home\Desktop\cie-mrtd-sdk-master\CIE.MRTD.SDK\obj\Debug\CIE.MRTD.SDK.dll
+\\Mac\Home\Desktop\cie-mrtd-sdk-master\CIE.MRTD.SDK\obj\Debug\CIE.MRTD.SDK.pdb
